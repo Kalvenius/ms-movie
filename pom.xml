@@ -12,7 +12,6 @@
     </parent>
 
 
-         
     <groupId>com.example</groupId>
     <artifactId>movie-database-api</artifactId>
     <version>1.0.0</version>
