@@ -6,9 +6,6 @@
     <modelVersion>4.0.0</modelVersion>
 
 
-
-
-         
          
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -17,11 +14,6 @@
         <relativePath/>
     </parent>
 
-
-
-
-         
-         
 
     <groupId>com.example</groupId>
     <artifactId>movie-database-api</artifactId>
